@@ -12,7 +12,7 @@ const HomeMenu = () => {
           <IconLink customClass="bg-red-700 p-4 rounded shadow-lg w-1/4 flex flex-col items-center justify-center text-center flex flex-col items-center justify-center text-center" title='Agregar Producto' href='/addProduct'>
             <LuPackagePlus size={120}/>
           </IconLink>
-          <IconLink customClass="bg-red-700 p-4 rounded shadow-lg w-1/4 flex flex-col items-center justify-center text-center" title='Categorias' href='/'>
+          <IconLink customClass="bg-red-700 p-4 rounded shadow-lg w-1/4 flex flex-col items-center justify-center text-center" title='Categorias' href='/categories'>
             <CgFormatLeft size={120}/>
           </IconLink>
           <IconLink customClass="bg-red-700 p-4 rounded shadow-lg w-1/4 flex flex-col items-center justify-center text-center" title='Productos Agotándose' href='/'>
